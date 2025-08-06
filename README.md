@@ -13,18 +13,12 @@ Monthly sales and profit trends
 
 Top-performing products and customers
 
-Geo-distribution of key metrics
-
 🖥️ Dashboard Features
-📍 Interactive Filters for Region, Category, and Date
+📍 Interactive Filters for Region, Category, and Sub-Categories
 
-📈 Dynamic Charts: Bar, Line, Map, and Pie Charts
+📈 Dynamic Charts: Bar, and Pie Charts
 
 🔍 Drill-through and Tooltip Pages for deeper insights
-
-🌎 Map Visualization for geo-based analysis
-
-📊 KPI Cards for quick performance summary
 
 📦 Dataset
 The dataset used is a sample Superstore dataset, commonly used in BI projects. It includes fields like:
@@ -53,12 +47,3 @@ Academic/Portfolio projects
 Business analysis practice
 
 Interactive reports for sales teams or stakeholders
-
-🙋‍♂️ Contact
-If you have questions or want to collaborate, feel free to connect:
-
-💼 GitHub: Ashish-Naithani
-
-📧 Email: your.email@example.com
-
-💬 LinkedIn: your-profile
